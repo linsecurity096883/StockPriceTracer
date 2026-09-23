@@ -10,4 +10,4 @@ print("Pandas:", pd.__version__)
 print("NumPy:", np.__version__)
 print("Plotly:", plotly.__version__)
 
-prㄕㄛint("\n所有套件載入成功！")
+print("\n所有套件載入成功！")
